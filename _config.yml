@@ -1,7 +1,7 @@
 url: https://appship.github.io
 baseurl: /port
 # Site settings
-title: Appship Homeport
+title: Appship Home Port
 email: firstofficer@appship.com
 description: "This is the homepage of AppShip, Inc. We are a full design and development consultancy, or dev shop if you will. We believe in supporting the growth of under-represented technologists while creating beautifully designed and developed applications. Our teams are lead by experienced leads overseeing our classes of apprentices. We build apps, through our apprenticeship, then we ship em."
 
@@ -12,44 +12,44 @@ color:
   secondary-dark: 333
 
 # Team names, titles and social links
-people:
-- name: JT Stuart
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+# people:
+# - name: JT Stuart
+#   pic: 1
+#   position: Lead Designer
+#   social:
+#     - title: twitter
+#       url: #
+#     - title: facebook
+#       url: #
+#     - title: stack-overflow
+#       url: #
 
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
+# - name: Larry Parker
+#   pic: 2
+#   position: Lead Marketer
+#   social:
+#     - title: twitter
+#       url: #
+#     - title: facebook
+#       url: #
+#     - title: linkedin
+#       url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+# - name: Diana Petersen
+#   pic: 3
+#   position: Lead Developer
+#   social:
+#     - title: twitter
+#       url: #
+#     - title: facebook
+#       url: #
+#     - title: google-plus
+#       url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/appshipcrew
   - title: facebook
     url:
   - title: stack-overflow
@@ -59,8 +59,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 495 Fulton Street
+  - line: San Francisco, CA 94102
 
 # Build settings
 markdown: kramdown
