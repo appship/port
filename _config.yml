@@ -51,11 +51,9 @@ social:
   - title: twitter
     url: http://twitter.com/appshipcrew
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
+    url: https://www.facebook.com/appship/
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/appship
 
 # Postal address (add as many lines as necessary)
 address:
