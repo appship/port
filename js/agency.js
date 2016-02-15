@@ -8,9 +8,11 @@
 $(function() {
     $('a.page-scroll').bind('click', function(event) {
         var $anchor = $(this);
-        $('html, body').stop().animate({
-            scrollTop: ($($anchor.attr('href')).offset().top - parseInt($anchor.css('padding-top')) - $('.navbar').height())
-        }, 1500, 'easeInOutExpo');
+        setTimeout(function(){
+            $('html, body').stop().animate({
+                scrollTop: ($($anchor.attr('href')).offset().top - parseInt($anchor.css('padding-top')) - $('.navbar').height())
+            }, 1500, 'easeInOutExpo');
+        }, 500);
         event.preventDefault();
     });
 });
